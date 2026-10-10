@@ -1,0 +1,11 @@
+# Build output
+build/
+starfield
+
+# macOS
+.DS_Store
+
+# Krita sources, backups and autosaves
+*.kra
+*.kra~
+*.png~

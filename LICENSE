@@ -1,0 +1,11 @@
+Copyright (c) 2026 the owner of this repository. All rights reserved.
+
+The source code (source/, build-saver.sh) and artwork (Art/) in this repository
+may not be copied, modified or redistributed without permission.
+
+Exception: data/nearest_stars_within_20ly.csv is adapted from the Wikipedia
+article "List of nearest stars" (https://en.wikipedia.org/wiki/List_of_nearest_stars)
+and is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International licence (https://creativecommons.org/licenses/by-sa/4.0/).
+Changes: converted from the article's table to CSV, wiki markup and citations
+removed, one row per star, decimal RA/Dec added, and a "Flare star" column added.

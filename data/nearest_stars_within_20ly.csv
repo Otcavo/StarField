@@ -1,0 +1,134 @@
+﻿#,System,Component,Object,Type,Distance (ly),Distance ± (ly),Constellation,Nearest system in its constellation,RA (J2000),Dec (J2000),RA (deg),Dec (deg),Spectral class,Mass (M☉),Apparent mag,Absolute mag,Mag band,Parallax (mas),Parallax ± (mas),Luminous (abs ≤ +8.5),Naked-eye visible (app ≤ +6.5),Flare star,Object other designations,System other designations,Notes
+1,Solar System,—,Sun,Star (A–K type),1.58e-05,,N/A,,N/A,N/A,,,G2V,1,-26.74,4.85,V,,,Yes,Yes,,Sol,,"8 confirmed major planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune); at least 9 likely dwarf planets (Ceres, Pluto, Orcus, Gonggong, Haumea, Makemake, Quaoar, Eris, Sedna); 2 asteroid belts; one possible candidate planet (Planet 9)"
+2,Alpha Centauri,C,Proxima Centauri,Red dwarf,4.2465,0.0003,Centaurus,Yes,14h 29m 43.0s,−62° 40′ 46″,217.42917,-62.67944,M5.5Ve,0.122,11.09,15.53,V,768.0665,0.0499,,,Yes,"Alpha Centauri C, V645 Centauri",,"Flare star; two confirmed planets (b, 2016; d, 2025) and a candidate planet (c, 2019)"
+3,Alpha Centauri,A,Rigil Kentaurus,Star (A–K type),4.3441,0.0022,Centaurus,Yes,14h 39m 36.5s,−60° 50′ 02″,219.90208,-60.83389,G2V,1.079,0.01,4.38,V,750.81,0.38,Yes,Yes,,Alpha Centauri A,,"One directly imaged habitable-zone planet candidate (Alpha Centauri Ab, 2021)"
+4,Alpha Centauri,B,Toliman,Star (A–K type),4.3441,0.0022,Centaurus,Yes,14h 39m 35.1s,−60° 50′ 14″,219.89625,-60.83722,K1V,0.909,1.34,5.71,V,750.81,0.38,Yes,Yes,,Alpha Centauri B,,Planet b refuted in 2015
+5,Barnard's Star,—,Barnard's Star,Red dwarf,5.9629,0.0004,Ophiuchus,Yes,17h 57m 48.5s,+04° 41′ 36″,269.45208,4.69333,M4.0Ve,0.144,9.53,13.22,V,546.9759,0.0401,,,Yes,BD+04°3561a,,"Flare star; largest-known proper motion; four confirmed planets (b, c, d, e)"
+6,Luhman 16,A,Luhman 16 A,Brown dwarf,6.5102,0.0006,Vela,Yes,10h 49m 18.9s,−53° 19′ 10″,162.32875,-53.31944,L8±1,0.032,10.7,14.2,J,500.993,0.05,,,,,WISE 1049−5319,Nearest brown dwarfs
+7,Luhman 16,B,Luhman 16 B,Brown dwarf,6.5102,0.0006,Vela,Yes,10h 49m 18.9s,−53° 19′ 10″,162.32875,-53.31944,T1±2,0.027,,,,500.993,0.05,,,,,WISE 1049−5319,Nearest brown dwarfs
+8,WISE 0855−0714,—,WISE 0855−0714,Sub-brown dwarf / rogue planet,7.43,0.041,Hydra,Yes,08h 55m 10.8s,−07° 14′ 43″,133.795,-7.24528,Y4,0.003–0.010,25.0,28.2,J,439.0,2.4,,,,,,Sub-brown dwarf
+9,Wolf 359,—,Wolf 359,Red dwarf,7.856,0.001,Leo,Yes,10h 56m 29.2s,+07° 00′ 53″,164.12167,7.01472,M6.0V,0.09,13.44,16.55,V,415.1794,0.0684,,,Yes,CN Leonis,,Flare star; 1 candidate and 1 refuted planet
+10,Lalande 21185,—,Lalande 21185,Red dwarf,8.3044,0.0007,Ursa Major,Yes,11h 03m 20.2s,+35° 58′ 12″,165.83417,35.97,M2.0V,0.39,7.47,10.44,V,392.7529,0.0321,,,,"BD+36°2147, Gliese 411, HD 95735",,"Two known planets (2019, 2021)"
+11,Sirius,A,Sirius A,Star (A–K type),8.7094,0.0054,Canis Major,Yes,06h 45m 08.9s,−16° 42′ 58″,101.28708,-16.71611,A1V,2.063,-1.46,1.42,V,374.4896,0.2313,Yes,Yes,,,Alpha Canis Majoris,Brightest star in the night sky
+12,Sirius,B,Sirius B,White dwarf,8.7094,0.0054,Canis Major,Yes,06h 45m 08.9s,−16° 42′ 58″,101.28708,-16.71611,DA2,1.018,8.44,11.34,V,374.4896,0.2313,,,,,Alpha Canis Majoris,
+13,Gliese 65,A,Gliese 65 A,Red dwarf,8.77,0.01,Cetus,Yes,01h 39m 01.3s,−17° 57′ 01″,24.75542,-17.95028,M5.5Ve,0.102,12.54,15.4,V,371.92,0.42,,,Yes,BL Ceti,Luyten 726–8,Flare star (archetypal member); 1 candidate planet
+14,Gliese 65,B,Gliese 65 B,Red dwarf,8.77,0.01,Cetus,Yes,01h 39m 01.3s,−17° 57′ 01″,24.75542,-17.95028,M6.0Ve,0.1,12.99,15.85,V,371.92,0.42,,,Yes,UV Ceti,Luyten 726–8,Flare star (archetypal member); 1 candidate planet
+15,Ross 154,—,Ross 154,Red dwarf,9.7063,0.0009,Sagittarius,Yes,18h 49m 49.4s,−23° 50′ 10″,282.45583,-23.83611,M3.5Ve,0.17,10.43,13.07,V,336.0266,0.0317,,,Yes,V1216 Sagittarii,,Flare star
+16,Ross 248,—,Ross 248,Red dwarf,10.3057,0.0014,Andromeda,Yes,23h 41m 54.7s,+44° 10′ 30″,355.47792,44.175,M5.5Ve,0.136,12.29,14.79,V,316.4812,0.0444,,,Yes,HH Andromedae,,Flare star
+17,Epsilon Eridani,—,Epsilon Eridani,Star (A–K type),10.4749,0.0037,Eridanus,Yes,03h 32m 55.8s,−09° 27′ 30″,53.2325,-9.45833,K2V,0.82,3.73,6.19,V,311.37,0.11,Yes,Yes,,Ran,,"Three circumstellar disks; one confirmed planet (AEgir, 2000) and one candidate (c, 2002)"
+18,Gliese 887,—,Gliese 887,Red dwarf,10.7241,0.0007,Piscis Austrinus,Yes,23h 05m 52.0s,−35° 51′ 11″,346.46667,-35.85306,M0.5V,0.486,7.34,9.75,V,304.1354,0.02,,,Yes,Lacaille 9352,,"Flare star; four planets (b, c, d, e), equivocal evidence for a fifth in the inner system and a possible outer giant"
+19,Ross 128,—,Ross 128,Red dwarf,11.0074,0.0011,Virgo,Yes,11h 47m 44.4s,+00° 48′ 16″,176.935,0.80444,M4.0Vn,0.168,11.13,13.51,V,296.3053,0.0302,,,Yes,FI Virginis,,"Flare star; one planet (b, 2017)"
+20,EZ Aquarii,A,EZ Aquarii A,Red dwarf,11.109,0.034,Aquarius,Yes,22h 38m 33.4s,−15° 17′ 57″,339.63917,-15.29917,M5.0Ve,0.11,13.33,15.64,V,293.6,0.9,,,Yes,,"Gliese 866, Luyten 789-6",A and B are flare stars
+21,EZ Aquarii,B,EZ Aquarii B,Red dwarf,11.109,0.034,Aquarius,Yes,22h 38m 33.4s,−15° 17′ 57″,339.63917,-15.29917,M?,0.11,13.27,15.58,V,293.6,0.9,,,Yes,,"Gliese 866, Luyten 789-6",A and B are flare stars
+22,EZ Aquarii,C,EZ Aquarii C,Red dwarf,11.109,0.034,Aquarius,Yes,22h 38m 33.4s,−15° 17′ 57″,339.63917,-15.29917,M?,0.1,14.03,16.34,V,293.6,0.9,,,,,"Gliese 866, Luyten 789-6",A and B are flare stars
+23,61 Cygni,A,61 Cygni A,Star (A–K type),11.4039,0.0012,Cygnus,Yes,21h 06m 53.9s,+38° 44′ 58″,316.72458,38.74944,K5.0V,0.7,5.21,7.49,V,286.0054,0.0289,Yes,Yes,,BD+38°4343,,First star besides the Sun to have its distance measured; B is a flare star with a candidate super-Jupiter planet; possible circumstellar disk
+24,61 Cygni,B,61 Cygni B,Star (A–K type),11.4039,0.0012,Cygnus,Yes,21h 06m 55.3s,+38° 44′ 31″,316.73042,38.74194,K7.0V,0.63,6.03,8.31,V,286.0054,0.0289,Yes,Yes,Yes,BD+38°4344,,First star besides the Sun to have its distance measured; B is a flare star with a candidate super-Jupiter planet; possible circumstellar disk
+25,Procyon,A,Procyon A,Star (A–K type),11.463,0.051,Canis Minor,Yes,07h 39m 18.1s,+05° 13′ 30″,114.82542,5.225,F5IV–V,1.499,0.38,2.66,V,284.56,1.26,Yes,Yes,,,Alpha Canis Minoris,
+26,Procyon,B,Procyon B,White dwarf,11.463,0.051,Canis Minor,Yes,07h 39m 18.1s,+05° 13′ 30″,114.82542,5.225,DQZ,0.602,10.7,12.98,V,284.56,1.26,,,,,Alpha Canis Minoris,
+27,Struve 2398,A,Struve 2398 A,Red dwarf,11.4908,0.0009,Draco,Yes,18h 42m 46.7s,+59° 37′ 49″,280.69458,59.63028,M3.0V,0.334,8.9,11.16,V,283.8401,0.022,,,Yes,HD 173739,"Gliese 725, BD+59°1915",Flare stars; B has 2 candidate planets
+28,Struve 2398,B,Struve 2398 B,Red dwarf,11.4908,0.0009,Draco,Yes,18h 42m 46.9s,+59° 37′ 37″,280.69542,59.62694,M3.5V,0.248,9.69,11.95,V,283.8401,0.022,,,Yes,HD 173740,"Gliese 725, BD+59°1915",Flare stars; B has 2 candidate planets
+29,Groombridge 34,A,Groombridge 34 A,Red dwarf,11.6191,0.0008,Andromeda,,00h 18m 22.9s,+44° 01′ 23″,4.59542,44.02306,M1.5V,0.38,8.08,10.32,V,280.7068,0.0203,,,Yes,GX Andromedae,Gliese 15,"Flare star; two known planets (Ab, 2014; Ac, 2018)"
+30,Groombridge 34,B,Groombridge 34 B,Red dwarf,11.6191,0.0008,Andromeda,,00h 18m 22.9s,+44° 01′ 23″,4.59542,44.02306,M3.5V,0.15,11.06,13.3,V,280.7068,0.0203,,,Yes,GQ Andromedae,Gliese 15,Flare star
+31,DX Cancri,—,DX Cancri,Red dwarf,11.6797,0.0027,Cancer,Yes,08h 29m 49.5s,+26° 46′ 37″,127.45625,26.77694,M6.5Ve,0.09,14.78,16.98,V,279.2496,0.0637,,,Yes,G 51-15,,Flare star
+32,Epsilon Indi,A,Epsilon Indi A,Star (A–K type),11.867,0.0041,Indus,Yes,22h 03m 21.7s,−56° 47′ 10″,330.84042,-56.78611,K5Ve,0.754,4.69,6.89,V,274.8431,0.0956,Yes,Yes,,,CPD−57°10015,"One planet (Ab, 2018)"
+33,Epsilon Indi,Ba,Epsilon Indi Ba,Brown dwarf,11.867,0.0041,Indus,Yes,22h 04m 10.5s,−56° 46′ 58″,331.04375,-56.78278,T1.0V,0.065,12.3,14.5,J,274.8431,0.0956,,,,,CPD−57°10015,
+34,Epsilon Indi,Bb,Epsilon Indi Bb,Brown dwarf,11.867,0.0041,Indus,Yes,22h 04m 10.5s,−56° 46′ 58″,331.04375,-56.78278,T6.0V,0.05,13.2,15.4,J,274.8431,0.0956,,,,,CPD−57°10015,
+35,Tau Ceti,—,Tau Ceti,Star (A–K type),11.9118,0.0074,Cetus,,01h 44m 04.1s,−15° 56′ 15″,26.01708,-15.9375,G8.5Vp,0.783,3.49,5.68,V,273.8097,0.1701,Yes,Yes,,BD−16°295,,"Debris disk; evidence for four planets (e, f, g, h; 2012, 2017) and four further suspected planets (b, c, d, ""i""; 2012, 2019)"
+36,GJ 1061,—,GJ 1061,Red dwarf,11.9839,0.0014,Horologium,Yes,03h 35m 59.7s,−44° 30′ 45″,53.99875,-44.5125,M5.5V,0.113,13.09,15.26,V,272.1615,0.0316,,,,LHS 1565,,3 known planets (2019)
+37,YZ Ceti,—,YZ Ceti,Red dwarf,12.1222,0.0015,Cetus,,01h 12m 30.6s,−16° 59′ 56″,18.1275,-16.99889,M4.5V,0.13,12.02,14.17,V,269.0573,0.0337,,,Yes,LHS 138,,"Flare star; three planets (b, c, d; 2017)"
+38,Luyten's Star,—,Luyten's Star,Red dwarf,12.3485,0.0019,Canis Minor,,07h 27m 24.5s,+05° 13′ 33″,111.85208,5.22583,M3.5Vn,0.26,9.86,11.97,V,264.1269,0.0413,,,,BD+05°1668,,"Two planets (b, c; 2017) and two suspected planets (d, e; 2019)"
+39,Teegarden's Star,—,Teegarden's Star,Red dwarf,12.497,0.0045,Aries,Yes,02h 53m 00.9s,+16° 52′ 53″,43.25375,16.88139,M6.5V,0.08,15.14,17.22,V,260.9884,0.0934,,,,SO025300.5+165258,,"3 known planets (2019, 2024)"
+40,Kapteyn's Star,—,Kapteyn's Star,Red dwarf,12.8308,0.0008,Pictor,Yes,05h 11m 40.6s,−45° 01′ 06″,77.91917,-45.01833,M1.5VI,0.281,8.84,10.87,V,254.1986,0.0168,,,,CD−45°1841,,"Two refuted planets (b, c; 2014)"
+41,Lacaille 8760,—,Lacaille 8760,Red dwarf,12.9472,0.0018,Microscopium,Yes,21h 17m 15.3s,−38° 52′ 03″,319.31375,-38.8675,M0.0V,0.6,6.67,8.69,V,251.9124,0.0352,,,Yes,AX Microscopii,,Brightest M dwarf in the night sky; flare star
+42,SCR 1845−6357,A,SCR 1845−6357 A,Red dwarf,13.0638,0.007,Pavo,Yes,18h 45m 05.3s,−63° 57′ 48″,281.27208,-63.96333,M8.5V,0.07,17.39,19.41,V,249.6651,0.133,,,,,,
+43,SCR 1845−6357,B,SCR 1845−6357 B,Brown dwarf,13.0638,0.007,Pavo,Yes,18h 45m 02.6s,−63° 57′ 52″,281.26083,-63.96444,T6,0.03,13.3,15.3,J,249.6651,0.133,,,,,,
+44,Kruger 60,A,Kruger 60 A,Red dwarf,13.0724,0.0052,Cepheus,Yes,22h 27m 59.5s,+57° 41′ 45″,336.99792,57.69583,M3.0V,0.271,9.79,11.76,V,249.5,0.1,,,,,BD+56°2783,B is a flare star
+45,Kruger 60,B,Kruger 60 B,Red dwarf,13.0724,0.0052,Cepheus,Yes,22h 27m 59.5s,+57° 41′ 45″,336.99792,57.69583,M4.0V,0.176,11.41,13.38,V,249.5,0.1,,,Yes,DO Cephei,BD+56°2783,B is a flare star
+46,DENIS J1048−3956,—,DENIS J1048−3956,Red dwarf,13.1932,0.0027,Antlia,Yes,10h 48m 14.7s,−39° 56′ 06″,162.06125,-39.935,M8.5V,0.08,17.39,19.37,V,247.2156,0.0512,,,,,,
+47,Ross 614,A,Ross 614 A,Red dwarf,13.363,0.04,Monoceros,Yes,06h 29m 23.4s,−02° 48′ 50″,97.3475,-2.81389,M4.5V,0.223,11.15,13.09,V,244.07,0.73,,,Yes,LHS 1849,"V577 Monocerotis, Gliese 234",A is a flare star
+48,Ross 614,B,Ross 614 B,Red dwarf,13.363,0.04,Monoceros,Yes,06h 29m 23.4s,−02° 48′ 50″,97.3475,-2.81389,M5.5V,0.111,14.23,16.17,V,244.07,0.73,,,,LHS 1850,"V577 Monocerotis, Gliese 234",A is a flare star
+49,UGPS J0722−0540,—,UGPS J0722−0540,Sub-brown dwarf / rogue planet,13.43,0.13,Monoceros,,07h 22m 27.3s,−05° 40′ 30″,110.61375,-5.675,T9,0.010–0.025,16.52,18.45,J,242.8,2.4,,,,,,
+50,Wolf 1061,—,Wolf 1061,Red dwarf,14.05,0.0016,Ophiuchus,,16h 30m 18.1s,−12° 39′ 45″,247.57542,-12.6625,M3.0V,0.294,10.07,11.93,V,232.139,0.0268,,,,"Gliese 628, BD−12°4523",,"Three planets (b, c, d; 2015)"
+51,Van Maanen's Star,—,Van Maanen's Star,White dwarf,14.0718,0.0011,Pisces,Yes,00h 49m 09.9s,+05° 23′ 19″,12.29125,5.38861,DZ7,0.67,12.38,14.21,V,231.78,0.0183,,,,"Gliese 35, LHS 7",,Closest-known free-floating white dwarf; third-known white dwarf; possible debris disk (1917)
+52,Gliese 1,—,Gliese 1,Red dwarf,14.1747,0.0022,Sculptor,Yes,00h 05m 24.4s,−37° 21′ 27″,1.35167,-37.3575,M1.5V,0.45–0.48,8.55,10.35,V,230.097,0.0362,,,,CD−37°15492,,
+53,TZ Arietis,—,TZ Arietis,Red dwarf,14.578,0.0046,Aries,,02h 00m 13.2s,+13° 03′ 08″,30.055,13.05222,M4.5V,0.14,12.27,14.03,V,223.7321,0.0699,,,Yes,"Gliese 83.1, L 1159–16",,Flare star; one confirmed planet (b)
+54,Wolf 424,A,Wolf 424 A,Red dwarf,14.595,0.031,Virgo,,12h 33m 17.2s,+09° 01′ 15″,188.32167,9.02083,M5.5Ve,0.143,13.18,14.97,V,223.4775,0.4665,,,Yes,,"FL Virginis, LHS 333, Gliese 473",Flare stars
+55,Wolf 424,B,Wolf 424 B,Red dwarf,14.595,0.031,Virgo,,12h 33m 17.2s,+09° 01′ 15″,188.32167,9.02083,M7Ve,0.131,13.17,14.96,V,223.4775,0.4665,,,Yes,,"FL Virginis, LHS 333, Gliese 473",Flare stars
+56,Gliese 687,—,Gliese 687,Red dwarf,14.8395,0.0014,Draco,,17h 36m 25.9s,+68° 20′ 21″,264.10792,68.33917,M3.0V,0.401,9.17,10.89,V,219.7898,0.021,,,Possible,"LHS 450, BD+68°946",,"Possible flare star; two planets (b, 2014; c, 2020)"
+57,Gliese 674,—,Gliese 674,Red dwarf,14.8492,0.0018,Ara,Yes,17h 28m 39.9s,−46° 53′ 43″,262.16625,-46.89528,M3.0V,0.35,9.38,11.09,V,219.6463,0.0262,,,,LHS 449,,"One planet (b, 2007)"
+58,LHS 292,—,LHS 292,Red dwarf,14.8706,0.0041,Sextans,Yes,10h 48m 12.6s,−11° 20′ 14″,162.0525,-11.33722,M6.5V,0.08,15.6,17.32,V,219.3302,0.0602,,,Yes,LP 731-58,,Flare star
+59,Gliese 440,—,Gliese 440,White dwarf,15.1226,0.0013,Musca,Yes,11h 45m 42.9s,−64° 50′ 29″,176.42875,-64.84139,DQ6,0.75,11.5,13.18,V,215.6753,0.0181,,,,"WD 1142-645, LP 145–141",,
+60,GJ 1245,A,GJ 1245 A,Red dwarf,15.2001,0.0034,Cygnus,,19h 53m 54.2s,+44° 24′ 55″,298.47583,44.41528,M5.5V,0.11,13.46,15.17,V,214.5745,0.0476,,,Yes,G 208-44 A,,Flare stars
+61,GJ 1245,B,GJ 1245 B,Red dwarf,15.2001,0.0034,Cygnus,,19h 53m 55.2s,+44° 24′ 56″,298.48,44.41556,M6.0V,0.1,14.01,15.72,V,214.5745,0.0476,,,Yes,G 208-45,,Flare stars
+62,GJ 1245,C,GJ 1245 C,Red dwarf,15.2001,0.0034,Cygnus,,19h 53m 54.2s,+44° 24′ 55″,298.47583,44.41528,M5.5,0.07,16.75,18.46,V,214.5745,0.0476,,,Yes,G 208-44 B,,Flare stars
+63,WISE 1741+2553,—,WISE 1741+2553,Brown dwarf,15.22,0.2,Hercules,Yes,17h 41m 24.2s,+25° 53′ 19″,265.35083,25.88861,T9,,16.53,18.18,J,214.3,2.8,,,,WISEPA J174124.26+255319.5,,
+64,Gliese 876,—,Gliese 876,Red dwarf,15.2382,0.0025,Aquarius,,22h 53m 16.7s,−14° 15′ 49″,343.31958,-14.26361,M3.5V,0.37,10.17,11.81,V,214.038,0.0356,,,,Ross 780,,"Four planets (b, 1998; c, 2001; d, 2005; e, 2010)"
+65,WISE 1639−6847,—,WISE 1639−6847,Brown dwarf,15.336,0.066,Triangulum Australe,Yes,16h 39m 40.9s,−68° 47′ 46″,249.92042,-68.79611,Y0.5,,20.57,22.1,J,212.67,0.91,,,,,,
+66,LHS 288,—,LHS 288,Red dwarf,15.7586,0.0034,Carina,Yes,10h 44m 21.2s,−61° 12′ 36″,161.08833,-61.21,M5.5V,0.11,13.9,15.51,V,206.9698,0.0448,,,,Luyten 143-23,,
+67,GJ 1002,—,GJ 1002,Red dwarf,15.806,0.0036,Cetus,,00h 06m 43.8s,−07° 32′ 22″,1.6825,-7.53944,M5.5V,0.11,13.76,15.4,V,206.35,0.0474,,,,,,"Two known planets (b, c; 2022)"
+68,DENIS 0255−4700,—,DENIS 0255−4700,Brown dwarf,15.877,0.014,Eridanus,,02h 55m 03.7s,−47° 00′ 52″,43.76542,-47.01444,L7.5V,0.025–0.065,22.92,24.44,V,205.4251,0.1857,,,,,,
+69,Groombridge 1618,—,Groombridge 1618,Star (A–K type),15.8857,0.0017,Ursa Major,,10h 11m 22.1s,+49° 27′ 15″,152.84208,49.45417,K7.0V,0.67,6.59,8.16,V,205.3148,0.0224,Yes,,Yes,Gliese 380,,Flare star; one suspected debris disk
+70,Gliese 412,A,Gliese 412 A,Red dwarf,15.9969,0.0026,Ursa Major,,11h 05m 28.6s,+43° 31′ 36″,166.36917,43.52667,M1.0V,0.48,8.77,10.34,V,203.8876,0.0332,,,,,,
+71,Gliese 412,B,Gliese 412 B,Red dwarf,15.9969,0.0026,Ursa Major,,11h 05m 30.4s,+43° 31′ 18″,166.37667,43.52167,M5.5V,0.1,14.48,16.05,V,203.8876,0.0332,,,Yes,WX Ursae Majoris,,Flare star
+72,AD Leonis,—,AD Leonis,Red dwarf,16.1939,0.0024,Leo,,10h 19m 36.4s,+19° 52′ 10″,154.90167,19.86944,M3.0V,0.39–0.42,9.32,10.87,V,201.4064,0.0296,,,Yes,,,"Flare star; one refuted planet (b, refuted 2020)"
+73,Gliese 832,—,Gliese 832,Red dwarf,16.2005,0.0019,Grus,Yes,21h 33m 34.0s,−49° 00′ 32″,323.39167,-49.00889,M1.5V,0.45,8.66,10.2,V,201.3252,0.0237,,,Possible,,,"Possible flare star; one confirmed planet (b, 2008) and one now-refuted planet (c, 2014)"
+74,Gliese 682,—,Gliese 682,Red dwarf,16.3328,0.0026,Scorpius,Yes,17h 37m 03.7s,−44° 19′ 09″,264.26542,-44.31917,M4V,0.27,10.95,12.45,V,199.6944,0.0312,,,,CD-44 11909,,Two disputed planets
+75,Omicron² Eridani,A,Keid,Star (A–K type),16.333,0.0042,Eridanus,,04h 15m 16.3s,−07° 39′ 10″,63.81792,-7.65278,K0.5V,0.84,4.43,5.93,V,199.6911,0.0512,Yes,Yes,,Omicron² Eridani A,"40 Eridani, Gliese 166",One refuted planet
+76,Omicron² Eridani,B,Omicron² Eridani B,White dwarf,16.333,0.0042,Eridanus,,04h 15m 21.8s,−07° 39′ 29″,63.84083,-7.65806,DA4,0.573,9.52,11.02,V,199.6911,0.0512,,,,,"40 Eridani, Gliese 166",
+77,Omicron² Eridani,C,Omicron² Eridani C,Red dwarf,16.333,0.0042,Eridanus,,04h 15m 21.5s,−07° 39′ 22″,63.83958,-7.65611,M4V,0.2036,11.24,12.74,V,199.6911,0.0512,,,,,"40 Eridani, Gliese 166",
+78,EV Lacertae,—,EV Lacertae,Red dwarf,16.4761,0.0018,Lacerta,Yes,22h 46m 49.7s,+44° 20′ 02″,341.70708,44.33389,M3.5V,0.35,10.22,11.7,V,197.9573,0.022,,,Yes,,,Record-setting stellar flare observed
+79,70 Ophiuchi,A,70 Ophiuchi A,Star (A–K type),16.7074,0.0087,Ophiuchus,,18h 05m 27.4s,+02° 29′ 59″,271.36417,2.49972,K0V,0.9,4.21,5.66,V,195.2166,0.1012,Yes,Yes,,,Gliese 702,
+80,70 Ophiuchi,B,70 Ophiuchi B,Star (A–K type),16.7074,0.0087,Ophiuchus,,18h 05m 27.5s,+02° 29′ 56″,271.36458,2.49889,K5V,0.7,6.01,7.46,V,195.2166,0.1012,Yes,Yes,,,Gliese 702,
+81,Altair,—,Altair,Star (A–K type),16.73,0.049,Aquila,Yes,19h 50m 47.0s,+08° 52′ 06″,297.69583,8.86833,A7 IV-Vn,1.79,0.77,2.22,V,194.95,0.57,Yes,Yes,,,Alpha Aquilae,
+82,EI Cancri,A,EI Cancri A,Red dwarf,16.8,0.011,Cancer,,08h 58m 15.2s,+19° 45′ 47″,134.56333,19.76306,M5.5V,0.12,14.06,15.5,V,194.1443,0.1228,,,,,"GJ 1116, G 9-38",
+83,EI Cancri,B,EI Cancri B,Red dwarf,16.8,0.011,Cancer,,08h 58m 15.2s,+19° 45′ 47″,134.56333,19.76306,M V,0.1,14.92,16.36,V,194.1443,0.1228,,,,,"GJ 1116, G 9-38",
+84,WISE 1506+7027,—,WISE 1506+7027,Brown dwarf,16.856,0.052,Ursa Minor,Yes,15h 06m 52.4s,+70° 27′ 25″,226.71833,70.45694,T6,,13.74,15.17,J,193.5,0.6,,,,WISE J150649.97+702736.1,,
+85,GJ 3379,—,GJ 3379,Red dwarf,16.9861,0.0027,Orion,Yes,06h 00m 03.5s,+02° 42′ 24″,90.01458,2.70667,M3.5V,0.2312,11.31,12.73,V,192.0135,0.031,,,,G 99-49,,
+86,DENIS J081730.0−615520,—,DENIS J081730.0−615520,Brown dwarf,17.002,0.037,Carina,,08h 17m 30.1s,−61° 55′ 16″,124.37542,-61.92111,T6,0.015,13.61,15.03,J,191.8362,0.4186,,,,,,
+87,Gliese 445,—,Gliese 445,Red dwarf,17.1368,0.0017,Camelopardalis,Yes,11h 47m 41.4s,+78° 41′ 28″,176.9225,78.69111,M3.5V,0.14,10.79,12.19,V,190.3251,0.0194,,,,"LHS 2459, G 254-29",,
+88,2MASS J15404342−5101357,—,2MASS J15404342−5101357,Red dwarf,17.3738,0.0046,Norma,Yes,15h 40m 43.5s,−51° 01′ 36″,235.18125,-51.02667,M7V,0.09,15.26,16.63,V,187.729,0.0496,,,,,,
+89,2MASS 0939−2448,A,2MASS 0939−2448 A,Brown dwarf,17.41,0.44,Antlia,,09h 39m 35.5s,−24° 48′ 28″,144.89792,-24.80778,T8V,0.019–0.048,15.61,16.97,J,187.3,4.6,,,,,2MASS J09393548−2448279,Binary brown dwarf
+90,2MASS 0939−2448,B,2MASS 0939−2448 B,Brown dwarf,17.41,0.44,Antlia,,09h 39m 35.5s,−24° 48′ 28″,144.89792,-24.80778,T8V,0.019–0.038,,,,187.3,4.6,,,,,2MASS J09393548−2448279,Binary brown dwarf
+91,GJ 3323,—,GJ 3323,Red dwarf,17.5309,0.0026,Eridanus,,05h 01m 57.4s,−06° 56′ 46″,75.48917,-6.94611,M4V,0.1705,12.22,13.57,V,186.0466,0.0277,,,,"LHS 1723, LP 656-38",,Two known planets
+92,Gliese 526,—,Gliese 526,Red dwarf,17.7263,0.0024,Boötes,Yes,13h 45m 43.8s,+14° 53′ 29″,206.4325,14.89139,M1V,0.28,8.46,9.78,V,183.9962,0.0253,,,,"Wolf 498, HD 119850",,
+93,WISE 0350−5658,—,WISE 0350−5658,Brown dwarf,17.84,0.3,Reticulum,Yes,03h 50m 00.3s,−56° 58′ 30″,57.50125,-56.975,Y1,,22.47,23.7,J,182.9,3.1,,,,,,
+94,Stein 2051,A,Stein 2051 A,Red dwarf,17.9925,0.002,Camelopardalis,,04h 31m 11.5s,+58° 58′ 37″,67.79792,58.97694,M4V,0.252,11.04,12.33,V,181.273,0.0203,,,,,"Gliese 169.1, G 175-34",
+95,Stein 2051,B,Stein 2051 B,White dwarf,17.9925,0.002,Camelopardalis,,04h 31m 12.6s,+58° 58′ 41″,67.8025,58.97806,DC5,0.675,12.43,13.72,V,181.273,0.0203,,,,,"Gliese 169.1, G 175-34",
+96,2MASS J11145133−2618235,—,2MASS J11145133−2618235,Brown dwarf,18.2,0.14,Hydra,,11h 14m 51.3s,−26° 18′ 24″,168.71375,-26.30667,T7.5,0.029–0.048,15.86,17.12,J,179.2,1.4,,,,,,
+97,Gliese 251,—,Gliese 251,Red dwarf,18.2146,0.0028,Gemini,Yes,06h 54m 49.0s,+33° 16′ 05″,103.70417,33.26806,M3V,0.36,10.02,11.29,V,179.0629,0.028,,,,"Wolf 294, HD 265866",,One known planet
+98,LP 816-60,—,LP 816-60,Red dwarf,18.3305,0.0038,Capricornus,Yes,20h 52m 33.0s,−16° 58′ 29″,313.1375,-16.97472,M3.5V,0.224,11.5,12.75,V,177.9312,0.0365,,,,,,
+99,LSR J1835+3259,—,LSR J1835+3259,Brown dwarf,18.5534,0.0049,Lyra,Yes,18h 35m 37.9s,+32° 59′ 55″,278.90792,32.99861,M8.5V,0.053,18.27,19.5,V,175.793,0.0468,,,,,,
+100,Gliese 205,—,Gliese 205,Red dwarf,18.6042,0.0022,Orion,,05h 31m 27.4s,−03° 40′ 38″,82.86417,-3.67722,M1V,0.556,7.95,9.17,V,175.3131,0.0204,,,,"Wolf 1453, HD 36395",,
+101,2MASS J04151954−0935066,—,2MASS J04151954−0935066,Brown dwarf,18.62,0.18,Eridanus,,04h 15m 19.5s,−09° 35′ 07″,63.83125,-9.58528,T8,0.03,15.34,16.56,J,175.2,1.7,,,,,,
+102,Gliese 229,A,Gliese 229 A,Red dwarf,18.7906,0.0018,Lepus,Yes,06h 10m 34.6s,−21° 51′ 53″,92.64417,-21.86472,M1.5V,0.579,8.14,9.34,V,173.574,0.017,,,,,HD 42581,
+103,Gliese 229,Ba,Gliese 229 Ba,Brown dwarf,18.7906,0.0018,Lepus,Yes,06h 10m 34.6s,−21° 51′ 53″,92.64417,-21.86472,T7,0.036,14.01,15.21,J,173.574,0.017,,,,,HD 42581,Ba and Bb are a close binary; magnitudes are for Ba+Bb combined
+104,Gliese 229,Bb,Gliese 229 Bb,Brown dwarf,18.7906,0.0018,Lepus,Yes,06h 10m 34.6s,−21° 51′ 53″,92.64417,-21.86472,T8,0.033,14.01,15.21,J,173.574,0.017,,,,,HD 42581,Ba and Bb are a close binary; magnitudes are for Ba+Bb combined
+105,Alsafi,—,Alsafi,Star (A–K type),18.7993,0.0081,Draco,,19h 32m 21.6s,+69° 39′ 40″,293.09,69.66111,K0V,0.85,4.67,5.87,V,173.4939,0.0748,Yes,Yes,,Sigma Draconis,,
+106,Ross 47,—,Ross 47,Red dwarf,18.8883,0.0031,Orion,,05h 42m 09.3s,+12° 29′ 21″,85.53875,12.48917,M4V,0.35,11.57,12.76,V,172.6762,0.0286,,,,Gliese 213,,
+107,WISE 1541−2250,—,WISE 1541−2250,Sub-brown dwarf / rogue planet,18.93,0.17,Libra,,15h 41m 51.6s,−22° 50′ 25″,235.465,-22.84028,Y0.5,0.011,20.99,22.1,J,172.3,1.6,,,,,,
+108,Gliese 570,A,Gliese 570 A,Star (A–K type),19.1987,0.0074,Libra,Yes,14h 57m 28.0s,−21° 24′ 56″,224.36667,-21.41556,K4V,0.802,5.64,6.79,V,169.8843,0.0653,Yes,Yes,,,"Lalande 27173, 33 G. Librae",
+109,Gliese 570,B,Gliese 570 B,Red dwarf,19.1987,0.0074,Libra,Yes,14h 57m 28.0s,−21° 24′ 56″,224.36667,-21.41556,M1.5V,0.55,8.3,9.45,V,169.8843,0.0653,,,,,"Lalande 27173, 33 G. Librae",
+110,Gliese 570,C,Gliese 570 C,Red dwarf,19.1987,0.0074,Libra,Yes,14h 57m 28.0s,−21° 24′ 56″,224.36667,-21.41556,M,0.35,9.96,11.11,V,169.8843,0.0653,,,,,"Lalande 27173, 33 G. Librae",
+111,Gliese 570,D,Gliese 570 D,Brown dwarf,19.1987,0.0074,Libra,Yes,14h 57m 28.0s,−21° 24′ 56″,224.36667,-21.41556,T7.5,0.05,15.32,16.47,J,169.8843,0.0653,,,,,"Lalande 27173, 33 G. Librae",
+112,Gliese 693,—,Gliese 693,Red dwarf,19.2078,0.0053,Pavo,,17h 46m 32.4s,−57° 19′ 09″,266.635,-57.31917,M3V,0.26,10.76,11.91,V,169.8042,0.0465,,,,Luyten 205–128,,
+113,Gliese 754,—,Gliese 754,Red dwarf,19.2724,0.0067,Telescopium,Yes,19h 20m 48.0s,−45° 33′ 30″,290.2,-45.55833,M4V,0.173,12.23,13.37,V,169.2351,0.0588,,,,Luyten 347–14,,One candidate planet
+114,Gliese 908,—,Gliese 908,Red dwarf,19.2745,0.0032,Pisces,,23h 49m 12.5s,+02° 24′ 04″,357.30208,2.40111,M1V,0.37,8.98,10.12,V,169.2163,0.0281,,,,"Lalande 46650, BR Piscium",,
+115,Gliese 752,A,Gliese 752 A,Red dwarf,19.2922,0.0027,Aquila,,19h 16m 55.3s,+05° 10′ 08″,289.23042,5.16889,M2.5V,0.46,9.1,10.24,V,169.0615,0.0239,,,,,"Wolf 1055, HD 180617",One known planet
+116,Gliese 752,B,Gliese 752 B,Red dwarf,19.2922,0.0027,Aquila,,19h 16m 57.6s,+05° 09′ 02″,289.24,5.15056,M8V,0.075,17.45,18.59,V,169.0615,0.0239,,,,VB 10,"Wolf 1055, HD 180617",Very small and very dim red dwarf
+117,Gliese 588,—,Gliese 588,Red dwarf,19.2996,0.0031,Lupus,Yes,15h 32m 12.9s,−41° 16′ 32″,233.05375,-41.27556,M2.5V,0.43,9.31,10.45,V,168.9965,0.027,,,,CD-40 9712,,Two candidate planets
+118,Eta Cassiopeiae,A,Achird,Star (A–K type),19.3314,0.0025,Cassiopeia,Yes,00h 49m 06.3s,+57° 48′ 55″,12.27625,57.81528,G0V,0.972,3.46,4.6,V,168.7186,0.0216,Yes,Yes,,Eta Cassiopeiae A,Gliese 34,
+119,Eta Cassiopeiae,B,Eta Cassiopeiae B,Star (A–K type),19.3314,0.0025,Cassiopeia,Yes,00h 49m 06.3s,+57° 48′ 55″,12.27625,57.81528,K7V,0.57,7.51,8.65,V,168.7186,0.0216,,,,,Gliese 34,
+120,36 Ophiuchi,A,Guniibuu,Star (A–K type),19.4185,0.0036,Ophiuchus,,17h 15m 20.9s,−26° 36′ 09″,258.83708,-26.6025,K1.5V,0.85,5.07,6.2,V,167.9617,0.0311,Yes,Yes,,36 Ophiuchi A,Gliese 663,
+121,36 Ophiuchi,B,36 Ophiuchi B,Star (A–K type),19.4185,0.0036,Ophiuchus,,17h 15m 21.0s,−26° 36′ 10″,258.8375,-26.60278,K1V,0.85,5.08,6.21,V,167.9617,0.0311,Yes,Yes,,,Gliese 663,
+122,36 Ophiuchi,C,36 Ophiuchi C,Star (A–K type),19.4185,0.0036,Ophiuchus,,17h 16m 13.4s,−26° 32′ 46″,259.05583,-26.54611,K5V,0.71,6.32,7.45,V,167.9617,0.0311,Yes,Yes,,,Gliese 663,
+123,2MASS 0937+2931,—,2MASS 0937+2931,Brown dwarf,19.5,0.1,Leo,,09h 37m 34.9s,+29° 31′ 41″,144.39542,29.52806,T7,0.04,14.65,15.71,J,167.19,1.22,,,,,2MASS J09373487+2931409,
+124,YZ Canis Minoris,—,YZ Canis Minoris,Red dwarf,19.533,0.004,Canis Minor,,07h 44m 40.2s,+03° 33′ 09″,116.1675,3.5525,M4V,0.308,11.19,12.3,V,166.9769,0.0343,,,,"Ross 882, Gliese 285",,
+125,GJ 1005,A,GJ 1005 A,Red dwarf,19.577,0.035,Cetus,,00h 15m 28.1s,−16° 08′ 02″,3.86708,-16.13389,M3.5V,0.179,11.6,12.71,V,166.6,0.3,,,,,"Luyten 722-22, G 158-50","Distance uncertain: other estimates 16.28±0.75, 17.91±0.67, 17.0±1.5, 16.26±0.76, 17.26, 19.695±0.095 ly"
+126,GJ 1005,B,GJ 1005 B,Red dwarf,19.577,0.035,Cetus,,00h 15m 28.1s,−16° 08′ 02″,3.86708,-16.13389,M V,0.112,14.02,15.13,V,166.6,0.3,,,,,"Luyten 722-22, G 158-50","Distance uncertain: other estimates 16.28±0.75, 17.91±0.67, 17.0±1.5, 16.26±0.76, 17.26, 19.695±0.095 ly"
+127,HR 7703,A,HR 7703 A,Star (A–K type),19.609,0.013,Sagittarius,,20h 11m 11.93s,−36° 06′ 04″,302.79971,-36.10111,K2.5V,0.65,5.31,6.41,V,166.3272,0.1065,Yes,Yes,,,"279 G. Sagittarii, HD 191408, Gliese 783, IRAS 20079-3614",
+128,HR 7703,B,HR 7703 B,Red dwarf,19.609,0.013,Sagittarius,,20h 11m 11.93s,−36° 06′ 04″,302.79971,-36.10111,M4V,0.24,11.5,12.6,V,166.3272,0.1065,,,,,"279 G. Sagittarii, HD 191408, Gliese 783, IRAS 20079-3614",
+129,82 G. Eridani,—,82 G. Eridani,Star (A–K type),19.7045,0.0093,Eridanus,,03h 19m 55.7s,−43° 04′ 11″,49.98208,-43.06972,G8V,0.7,4.26,5.35,V,165.5242,0.0784,Yes,Yes,,"e Eridani, Gliese 139, HD 20794",,"Three confirmed planets, three candidate planets; hot and cold dust disks"
+130,Gliese 268,A,Gliese 268 A,Red dwarf,19.7414,0.0076,Auriga,Yes,07h 10m 01.8s,+38° 31′ 46″,107.5075,38.52944,M4.5V,0.226,12.05,13.14,V,165.2147,0.0636,,,,,"Ross 986, QY Aurigae",
+131,Gliese 268,B,Gliese 268 B,Red dwarf,19.7414,0.0076,Auriga,Yes,07h 10m 01.8s,+38° 31′ 46″,107.5075,38.52944,M V,0.192,12.45,13.54,V,165.2147,0.0636,,,,,"Ross 986, QY Aurigae",
+132,Delta Pavonis,—,Delta Pavonis,Star (A–K type),19.893,0.015,Pavo,,20h 08m 43.6s,−66° 10′ 55″,302.18167,-66.18194,G8IV,1.051,3.55,4.62,V,163.9544,0.1222,Yes,Yes,,,,One candidate planet
+133,SIMP J013656.5+093347,—,SIMP J013656.5+093347,Sub-brown dwarf / rogue planet,19.955,0.057,Pisces,,01h 36m 56.5s,+09° 33′ 47″,24.23542,9.56306,T2.5,0.012,13.25,14.32,J,163.4478,0.4629,,,,,,"Rogue planet, 12.7 Jupiter masses"
