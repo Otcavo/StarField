@@ -4,6 +4,12 @@ A macOS screensaver that shows every known star and brown dwarf within 20 light-
 
 There are 133 objects in 95 star systems, each placed at its real position in space, centred on the Sun.
 
+## Credits
+
+- **Code:** I wrote the code together with Claude, Anthropic's AI assistant.
+- **Art:** all the pixel art is mine.
+- **Star data:** Wikipedia, as described below.
+
 ## What it does
 
 - **Rotating 3D map:** the neighbourhood turns once every four minutes, with perspective, and stars on the far side are drawn darker.
@@ -81,12 +87,6 @@ The sprite sheets in `Art/` are read like this:
 - `thumbnail.png`, `thumbnail2x.png`: the picture shown in System Settings.
 
 If any image is missing, a simple placeholder is drawn instead.
-
-## Credits
-
-- **Code:** I wrote the code together with Claude, Anthropic's AI assistant.
-- **Art:** all the pixel art is mine.
-- **Star data:** Wikipedia, as described below.
 
 ## Data
 
